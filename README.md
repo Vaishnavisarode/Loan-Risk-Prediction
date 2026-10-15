@@ -1,5 +1,5 @@
 # LoanGuard — Explainable Loan Risk Prediction
-
+🚀 **[Live Demo](https://loan-risk-prediction-bdz7xrf4kufvrqhurgnwvc.streamlit.app/)** | 📂 **[Github](https://github.com/vaishnavisarode)**
 LoanGuard is an end-to-end machine learning project that estimates loan default probability and explains the factors influencing individual predictions using SHAP.
 
 ## Project Overview
@@ -58,5 +58,5 @@ This is an educational portfolio project, not a validated credit-scoring system.
 ## Author
 
 Vaishnavi Sarode 
-LinkedIn : https://www.linkedin.com/in/vaishnavi-sarode-274800391/ 
-Github : https://github.com/vaishnavisarode 
+
+**[LinkedIn](https://www.linkedin.com/in/vaishnavi-sarode-274800391/ )**
