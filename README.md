@@ -57,4 +57,6 @@ This is an educational portfolio project, not a validated credit-scoring system.
 
 ## Author
 
-Add your name and links to your GitHub profile and LinkedIn here.
+Vaishnavi Sarode 
+LinkedIn : https://www.linkedin.com/in/vaishnavi-sarode-274800391/ 
+Github : https://github.com/vaishnavisarode 
