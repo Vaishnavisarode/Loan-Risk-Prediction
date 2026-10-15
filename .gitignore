@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.env.*
+
+data/raw/
+data/processed/
+*.csv
+models/random_forest_baseline.pkl

@@ -1,0 +1,5 @@
+{
+    "model": "Logistic Regression",
+    "threshold": 0.65,
+    "purpose": "Loan default risk prediction"
+}
